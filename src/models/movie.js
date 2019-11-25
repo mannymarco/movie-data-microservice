@@ -38,3 +38,5 @@ const Movie = mongoose.model('Movie', {
         rating: Number
         }]
     });
+
+    module.exports = Movie;
