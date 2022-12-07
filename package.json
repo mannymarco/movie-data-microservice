@@ -11,7 +11,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "extract-mongo-schema": "^0.2.9",
     "mongodb": "^3.3.4",
     "mongoimport": "^1.0.6",
